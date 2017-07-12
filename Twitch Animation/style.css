@@ -1,0 +1,48 @@
+/* CSS */
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.twitch-panel {
+    position: absolute;
+    margin-left: -385px;
+    width: 375px;
+    height: 100px;
+    background-color: #111;
+    opacity: .8;
+}
+
+.twitter-panel {
+    position: absolute;
+    margin-left: -385px;
+    width: 375px;
+    height: 100px;
+    background-color: #111;
+    opacity: .8;
+}
+
+.question-panel {
+    position: absolute;
+    margin-left: -385px;
+    width: 375px;
+    height: 100px;
+    background-color: #111;
+    opacity: .8;
+}
+
+.icon {
+    float: left;
+    height: 74px;
+    margin: 13px;
+}
+
+.panel-text {
+    float: right;
+    padding-top: 13px;
+    padding-right: 25px;
+    width: 225px;
+    display: block;
+    color: white;
+    
+}
